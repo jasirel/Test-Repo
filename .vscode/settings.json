@@ -1,0 +1,9 @@
+{
+  "workbench.settings.editor": "json",
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.useSplitJSON": true,
+  "python.pythonPath": "Projectvenv/bin/python3",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "python.linting.enabled": true
+}
